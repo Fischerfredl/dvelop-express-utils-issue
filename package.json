@@ -1,0 +1,27 @@
+{
+  "name": "dvelop-express-utils-issue",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fischerfredl/dvelop-express-utils-issue.git"
+  },
+  "author": "Alfred Melch <dev@melch.pro>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fischerfredl/dvelop-express-utils-issue/issues"
+  },
+  "homepage": "https://github.com/Fischerfredl/dvelop-express-utils-issue#readme",
+  "description": "",
+  "dependencies": {
+    "@dvelop-sdk/express-utils": "^1.2.1",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "typescript": "^5.8.2"
+  }
+}
